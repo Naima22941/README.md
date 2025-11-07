@@ -7,9 +7,3 @@
 |A |AC  |
 |B |AC  |
 |C |AC  |
-|D |WA  |
-|E |AC  |
-|F |AC  |
-|G |AC  |
-|H |AC  |
-|I |AC  |
