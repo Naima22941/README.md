@@ -4,6 +4,12 @@
 **Language:** C++ <BR>
 |Problem|Status|
 |---------|--------|
-|A |AC  |
-|B |AC  |
-|C |AC  |
+|D |AC  |
+|E |AC  |
+|F |AC  |
+|G |AC  |
+|H |AC  |
+|I |AC  |
+|P |AC  |
+|T |AC  |
+|W |AC  |
