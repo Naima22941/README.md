@@ -4,12 +4,17 @@
 **Language:** C++ <BR>
 |Problem|Status|
 |---------|--------|
-|D |AC  |
-|E |AC  |
-|F |AC  |
-|G |AC  |
-|H |AC  |
-|I |AC  |
-|P |AC  |
-|T |AC  |
-|W |AC  |
+|J |AC  |
+|K |AC  |
+|L |AC  |
+|M |AC  |
+|N |AC  |
+|O |AC  |
+|Q |AC  |
+|R |AC  |
+|S |AC  |
+|U |AC  |
+|V |AC  |
+|X |AC  |
+|Y |AC  |
+|Z |AC  |
